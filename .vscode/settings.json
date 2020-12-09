@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/00d86e5b-441c-4122-89ba-d5320beecad5/resourceGroups/recursos1/providers/Microsoft.Web/sites/blob-storage-api",
+  "appService.deploySubpath": "."
+}
